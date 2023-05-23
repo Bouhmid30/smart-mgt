@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: redhat.satellite
-    source: https://galaxy.ansible.com
+- redhat.satellite
+
