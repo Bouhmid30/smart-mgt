@@ -1,4 +1,5 @@
 ---
 collections:
-- redhat.satellite
-
+  - name: https://github.com/RedHatSatellite/satellite-ansible-collection.git
+    type: git
+    version: develop
