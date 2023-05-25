@@ -1,6 +1,6 @@
 ---
 - name: vm snapshot demo
-  hosts: poweredOn
+  hosts: localhost
   become: false
   gather_facts: false
   collections:
