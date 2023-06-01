@@ -4,9 +4,9 @@
   gather_facts: no
   vars:
     login: &login
-      server_url: https://sat-srv.aap.smartek.ae
-      username: admin
-      password: redhat
+      server_url: ***
+      username: ***
+      password: ***
       validate_certs: no
     organization: Default Organization
     lifecycle_environment: undef
